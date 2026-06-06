@@ -85,3 +85,6 @@ Mobile-Sales-Dashboard/
 
 ---
 
+## Author
+
+**Riya Verma**
